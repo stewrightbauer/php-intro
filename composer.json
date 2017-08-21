@@ -1,0 +1,12 @@
+{
+    "name": "stephenwright/php-intro",
+    "description": "Intro into PHP repository for Jann",
+    "license": "Not Public",
+    "authors": [
+        {
+            "name": "Ste Wright",
+            "email": "stephen.wright@bauermedia.co.uk"
+        }
+    ],
+    "require": {}
+}
